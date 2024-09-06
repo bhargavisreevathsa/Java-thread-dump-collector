@@ -1,4 +1,3 @@
-# threaddumpcollector
 The script helps to collect the thread dumps for a Java Process using JAttach
 The steps to collect the thread dumps are below. 
 
